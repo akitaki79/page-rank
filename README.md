@@ -11,7 +11,7 @@ This project implements a simple version of Google's PageRank algorithm using Nu
 
 ## Installation
 ```sh
-git clone https://github.com/yourusername/pagerank.git
+git clone https://github.com/akitaki79/page-rank.git
 cd pagerank
 pip install numpy
 ```
